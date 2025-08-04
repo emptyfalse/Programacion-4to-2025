@@ -1,0 +1,4 @@
+numA = int(2)
+numB = int(3)
+total = numA + numB
+print (total)
